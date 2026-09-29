@@ -178,4 +178,3 @@ thing to talk through in an interview.
   before classification.
 
 ---
-*Research Associate application — Deep Learning Lab, NCAI, NUST*
